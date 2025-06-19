@@ -1,1 +1,1 @@
-# CSCN8000_MidtermPartB
+This project uses the wine datasets from sklearn. The datasets are split into a test and a training set to compare the Gaussian and Multinomial models' predictions.
